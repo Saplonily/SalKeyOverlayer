@@ -1,0 +1,6 @@
+- Name: SalKeyOverlayer
+  Version: 0.1.0-alpha
+  DLL: SalKeyOverlayer.dll
+  Dependencies:
+    - Name: Everest
+      Version: 1.3847.0
