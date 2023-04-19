@@ -2,9 +2,9 @@
 
 ## 简介
 
-这是一个简单的蔚蓝内置的按键显示器, 然后好像没啥了, 具体可以看[CelesteMiaoNet论坛上的这个帖](https://celeste.centralteam.cn/d/81-yi-ge-jian-jian-dan-dan-de-wei-lan-nei-zhi-an-jian-xian-shi-qi)中的介绍(~~虽然也没多少~~)  
-~~因为要咕很久~~  
-简单的截图:
+这是一个简单的蔚蓝内置的按键显示器, 然后好像没啥了  
+具体可以看[CelesteMiaoNet论坛上的这个帖](https://celeste.centralteam.cn/d/81-yi-ge-jian-jian-dan-dan-de-wei-lan-nei-zhi-an-jian-xian-shi-qi)中的介绍(~~虽然也没多少~~)  
+截图:
 ![示例](doc/sc.png)
 ## 构建
 
