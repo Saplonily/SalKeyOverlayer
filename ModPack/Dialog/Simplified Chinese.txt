@@ -1,0 +1,4 @@
+modoptions_salkeyoverlayer_title=Sap的按键显示器(SalKeyOverlayer)
+
+modoptions_salkeyoverlayer_reload=重新载入配置信息
+modoptions_salkeyoverlayer_reloadhint=这会实时更新你的显示器为最新的配置

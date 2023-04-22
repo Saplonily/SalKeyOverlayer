@@ -1,0 +1,4 @@
+modoptions_salkeyoverlayer_title=Key Overlayer by Saplonily
+
+modoptions_salkeyoverlayer_reload=Reload configuration
+modoptions_salkeyoverlayer_reloadhint=Reload the config at run-time.

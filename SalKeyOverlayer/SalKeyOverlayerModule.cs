@@ -6,15 +6,15 @@ using MonoMod.Cil;
 
 namespace Celeste.Mod.SalKeyOverlayer;
 
-public class SalKeyOverlayer : EverestModule
+public class SalKeyOverlayerModule : EverestModule
 {
     protected static bool hookedFromHudRenderer = false;
-    public static SalKeyOverlayer Instance { get; set; }
-    public static SalKeyOverlayerSettings Settings => Instance._Settings as SalKeyOverlayerSettings;
+    public static SalKeyOverlayerModule Instance { get; set; }
 
     public override Type SettingsType => typeof(SalKeyOverlayerSettings);
+    public static SalKeyOverlayerSettings Settings => Instance._Settings as SalKeyOverlayerSettings;
 
-    public SalKeyOverlayer()
+    public SalKeyOverlayerModule()
     {
         Instance = this;
     }
